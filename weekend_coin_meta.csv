@@ -1,0 +1,24 @@
+field,description_ko
+weekend_start_utc,주말 시작(UTC)
+weekend_end_utc,주말 종료(UTC)
+weekend_start_kst,주말 시작(KST)
+weekend_end_kst,주말 종료(KST)
+btc_start_price,BTC-USD 시작가(주말창)
+btc_end_price,BTC-USD 종료가(주말창)
+btc_weekend_return_pct,BTC 주말 수익률(%)
+btc_up_ox,BTC 주말 상승 여부(O/X)
+week_friday_utc,라벨용 금요일(UTC)
+sp500_close,S&P500 종가(금요일)
+sp500_weekly_ret_pct,S&P500 주간 수익률(%)
+sp500_updown,S&P500 상승/하락
+fed_target_upper_pct,연준 기준금리 상단(%)
+fed_change_bp,기준금리 주간 변화(bp)
+fed_change_ox,해당 주 기준금리 변동 여부(O/X)
+us10y_pct,미10년물 금리(%)
+dgs10_weekly_change_bp,미10년물 주간 변화(bp)
+wti_usd,WTI 가격($/bbl)
+wti_weekly_ret_pct,WTI 주간 수익률(%)
+cpi_yoy_pct,"CPI 전년동월비(%, 발표 주만)"
+pce_yoy_pct,"PCE 전년동월비(%, 발표 주만)"
+unemployment_rate_pct,실업률(%)
+gdp_qoq_saar_pct,실질GDP QoQ SAAR(%)
